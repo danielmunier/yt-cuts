@@ -1,0 +1,5 @@
+requests
+pytube
+moviepy
+ffmpeg-python
+validators
